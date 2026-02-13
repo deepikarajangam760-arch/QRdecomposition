@@ -55,8 +55,7 @@ print("",R)
 
 ## Output
 ```
-<img width="1666" height="840" alt="Screenshot 2026-02-13 225613" src="https://github.com/user-attachments/assets/b8fcd473-6410-4d57-89cb-8c37ff5c6d10" />
-
+<img width="1666" height="840" alt="Screenshot 2026-02-13 225613" src="https://github.com/user-attachments/assets/6bd46140-46f0-4833-955b-45d3591beef9" />
 
 
 ```
